@@ -60,6 +60,6 @@ If you’d like to show your appreciation for my work, you can buy me a coffee o
 <h3>🔗 Let's Connect</h3>
 Feel free to reach out and collaborate on exciting projects! I'm always open to learning and exploring new opportunities.
 
-- 📧 [Email](mailto:your-email@domain.com)
+- 📧 [Email](alfalahi7749@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
 - 🌐 [Portfolio](https://your-portfolio-link.com)
